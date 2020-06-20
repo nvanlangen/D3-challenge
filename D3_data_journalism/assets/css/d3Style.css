@@ -52,6 +52,11 @@
   border-radius: 4px;
 }
 
+.axisLabel {
+  font-weight: bold;
+  text-anchor: middle;
+}
+
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
   .stateText {
